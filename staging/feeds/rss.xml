@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:media="http://search.yahoo.com/mrss/">
+
+<channel>
+  <title>Strategic Planning Consulting - Cambridge Strategics</title>
+  <link>http://www.cambridgestrategics.com</link>
+  <description>Cambridge Strategics provides strategic planning consulting services for organizations and school districts worldwide. For more than 30 years, our strategic planning experts have guided our clients through more than 1,150 strategic plans. To learn more about the Cambridge strategic planning process, contact us today to speak with one of our consultants.</description>
+  <category></category>
+  <ttl></ttl>
+  <copyright>Copyright </copyright>
+  <generator>RSSGenerator.net Free RSS Feed Generator</generator>
+  <language>en-us</language>
+  <atom:link href="" rel="self" type="application/rss+xml" />
+	<item>
+		<title>BISD strategic planning kicks off</title>
+		<link>http://www.cambridgestrategics.com/news/in-the-news.html</link>
+		<guid>http://www.cambridgestrategics.com</guid>
+	      <pubDate>Fri, 15 Apr 2011 11:00:00 CST</pubDate>
+		<description>After a summary of what a strategic educational plan for the Bastrop Independent School District is meant to accomplish, an educational design specialist with Cambridge Strategics, asked the audience gathered at Cedar Creek High School Thursday night what they viewed as important to student's education.</description>
+		</item>
+		
+		<item>
+		<title>District to Shape Future Direction of NKC Schools </title>
+		<link>http://www.cambridgestrategics.com/news/nkc-schools-strategic-plan.html</link>
+		<guid>http://www.cambridgestrategics.com</guid>
+	      <pubDate>Fri, 15 Apr 2011 11:00:00 CST</pubDate>
+		<description>North Kansas City Schools is a nationally accredited school district with many accomplishments to its credit. Students continue to make strong achievement gains, and operationally the District is leaner, more effective and more efficient than in years past.</description>
+		</item>
+
+
+</channel>
+
+</rss>
